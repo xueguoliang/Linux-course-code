@@ -1,0 +1,4 @@
+          yuwen    shuxue    yingyu 0
+xiaoming  30       25        65 120
+xiaohong  50       80        30 160
+xiaomi    80       95        100 275

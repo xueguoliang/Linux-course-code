@@ -1,0 +1,9 @@
+1.txt
+a.c
+a.out
+b.out
+mycp.c
+s.info
+T01IO_struct.c
+T02IO_struct.c
+T04myshell.c
